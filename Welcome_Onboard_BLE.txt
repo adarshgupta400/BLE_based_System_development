@@ -1,0 +1,62 @@
+WELCOME to onboard.
+
+Please read ahead and familiarize yourself with our group chats. On a weekly basis we have meetings on Skype. see below for links.
+
+PROJECT:
+   In this chat we are developing an ANDROID app using Kotlin programming language, the app must be BLE functionality.
+
+The goal here, is to develop an app with personal tracking and access monitoring solutions -  Bluetooth Low energy (BLE) targeting for beacon accuracy 'indoor' positioning. 
+Not to worry if you do not have any prior experience in developing apps. This is the learning curve of the internship.
+
+Also, for referencing GAOrfid.com take a look at GAOTek product page on beacons, which as you proceed will begin to make sense.
+https://gaorfid.com/product/ble-2-45ghz-active-rfid-black-diamond-rugged-tag-beacon/
+
+Now download this file – concentrate on the Android app portion and the reference material related to the development of a beacon, the information in the zip file will make sense as you proceed in building your app.
+http://www.gaorfid.com/downloads/RFID/217020-G1.zip
+
+Feel free to contact Prabhjot Dhaliwal(Team Leader) or  (Assistant Team Leader) personally if you should become overwhelmed, or require personal assistant of any kind.
+
+Some of the BLE interns in this chat have been working on this Android app for over three months,
+ so do not be discourage as interns are all at different stages on the development of the Android app. The goal is to be optimistic and succeed in your internship.
+
+In the Skype chat you will find that there is some difference than what is discussed in this chat, this chat is for relevancy and managerial updates.
+Your next step is to choose an Integrated Development Environments (IDE) -  you will need it to develop the Android app, the Android Studio IDE is the popular choice in this group.
+
+Here are the links for Skype.
+
+BLE Weekly Meeting VIDEO CONFERENCE -  once a week.
+https://join.skype.com/uIYkgdmUuscQ
+
+BLE 2.45GHz Active RFID Black Diamond Rugged Tag/Beacon
+Overview:
+gaorfid.com
+Update: Fixing bugs related to scanning part.
+Here is what we want to develop.
+
+Pease watch the following videos:
+How to do accurate indoor positioning with Bluetooth Beacons - YouTube
+https://www.youtube.com/watch?v=0HKjEPh_Pu8
+
+Indoor Localization Using Bluetooth Low Energy (BLE) Beacons - YouTube
+https://www.youtube.com/watch?v=bjbSwUveuXs
+
+
+Similar solution provider:
+API-First Indoor Positioning System: indoor positioning, indoor navigation, analytics - Proximi.io
+https://proximi.io/
+
+Some YouTube videos and channel you can refer:
+
+Proximi.io Channel - Proximi.io - YouTube
+https://www.youtube.com/channel/UCMjtimagw8e6jc8ochKXClA
+
+you will need to download from
+http://www.gaorfid.com/downloads/RFID/217020-G1.zip
+
+How to do accurate indoor positioning with Bluetooth Beacons
+Visit our blog for more information: https://proximi.io/accurate-indoor-positioning-bluetooth-beacons/--------------------------------------------TRANSCRIPTB...
+www.youtube.com
+
+How to do accurate indoor positioning with Bluetooth Beacons
+Visit our blog for more information: https://proximi.io/accurate-indoor-positioning-bluetooth-beacons/--------------------------------------------TRANSCRIPTB...
+www.youtube.com
